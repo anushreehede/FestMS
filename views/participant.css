@@ -1,0 +1,22 @@
+body{
+	color: lightgrey;
+	background-image: url("black.jpg");
+	text-align: center;
+}
+
+div{
+	display: inline-block;
+	margin-top: 50px;
+	margin-right: 30px;
+	margin-left: 30px;
+	margin-bottom: 30px;
+}
+
+.button{
+	font: bold 11px Arial;
+	text-decoration: none;
+	background-color: #EEEEEE;
+	color: #333333;
+	padding: 20px 30px 20px 30px;
+	margin-bottom: 10px;
+}

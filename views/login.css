@@ -1,0 +1,32 @@
+body{
+	background-image: url("shashi.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+}
+
+input[type=text], input[type=password]{
+	width: 30%;
+	padding: 12px 40px;
+	margin: auto;
+	display: block;
+	text-align: center;
+}
+
+button{
+	margin: 20px;
+	width: 150px;
+	height: 25px;
+	border: none;
+	background-color: #008CBA;
+	font-weight: bold;
+}
+
+h1{
+	color: white;
+}
+button{
+	border: none;
+}

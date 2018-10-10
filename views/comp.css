@@ -1,0 +1,40 @@
+body{
+	color: lightgrey;
+	background-image: url("black.jpg");
+	text-align: center;
+}
+
+.images{
+	display: inline-block;
+	margin: auto;
+	padding: 50px;
+}
+
+.my{
+	color: lightblue;
+}
+
+.back{
+	text-decoration: none;
+	color: white;
+	bor
+}
+
+a{
+	text-decoration: none;
+}
+
+.button{
+	font: bold 11px Arial;
+	text-decoration: none;
+	background-color: #EEEEEE;
+	color: black;
+	padding: 20px 30px 20px 30px;
+	margin-bottom: 10px;
+}
+
+input[type=submit]{
+	border: none;
+	padding: 15px;
+	margin: auto;
+}

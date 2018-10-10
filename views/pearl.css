@@ -1,0 +1,26 @@
+body{
+	color: white;
+	text-align: center;
+	background-image:url(sonu1.jpg);
+	background-repeat: none;
+	background-size: cover;
+}
+
+input[type=submit]{
+	border: none;
+	padding: 12px 50px;
+	font-weight: bold;
+}
+
+.button{
+	font: bold 11px Arial;
+	text-decoration: none;
+	background-color: #EEEEEE;
+	color: #333333;
+	padding: 20px 30px 20px 30px;
+	margin-bottom: 10px;
+}
+
+h3{
+	margin: 30px;
+}
